@@ -1,0 +1,93 @@
+1. แนะนำชื่อสมาชิก
+2.ระบุชื่อโครงการ ขอชื่อใหม่ /
+3.อธิบายวัตถุประสงค์ /
+4.อธิบายขั้นตอน รวมถึงการออกแบบการทดลอง วัสดุที่ใช้ และขั้นตอนทีละขั้นตอน /
+5.นำเสนอผลลัพธ์
+6.สรุปข้อสรุปของคุณ อาจจะมีผลลัพที่พิสุจได้ ปัญหาต่างๆที่เจอระหว่างการทดลอง
+
+2.ชื่อโครงงานการทดลอง Potato Pop
+
+//เกริ่น
+ในปัจจุบันเกษตรกรรมได้เข้ามามีบทบาทอย่างสำคัญกับเศรษฐกิจของประเทศไทยเนื่องจากการบริโภคผักหรือการกินอาหารคลีนกำลังเป็นกระแสนิยม
+เพราะมนุษย์เริ่มหันมารักสุขภาพการบริโภคผักจึงมีมากขึ้น เราจึงมีแนวคิดที่จะควบคุมปริมาณและคุณภาพในการผลิตให้ได้มาตรฐาน
+โดยการใช้เทคโนโลยี AIมาช่วยในการผลิตผลผลิตเพื่อรักษามาตรฐานและให้ผลผลิตมีคุณภาพและปริมาณคงที่ไปตลอด 
+ซึ่งนั่นก็คือเทคโนโลยี (ชื่อโครงการของเรา ฟีล Smart Farm)
+
+//Currently, Agriculture plays an important role in the economy of Thailand
+//due to the consumption of vegetables or eating clean food is becoming a popular trend.
+
+Currently, agriculture plays(แปลกๆ แก้ได้ขอความเห็u) an important role in the economy of Thailand, 
+driven by the increasing popularity of consuming vegetables and clean food.
+Because people are starting to prioritize their health more.
+Therefore, vegetable consumption has increased.
+So, we have the idea of using AI technology to control the quantity 
+and quality of production in order to meet standards. 
+This will help us maintain a consistent level of quality and quantity for our products.
+
+
+(Potato) วัตถุประสงค์ในการจัดทำโครงการการปลูกพืชโดยใช้เทคโนโลยี AI บริเวณที่มีจำกัด ตั้งแต่ต้นจนจบ 
+1.เพื่อศึกษาวิธีการใช้เทคโนโลยี AI ในปลูกพืช
+2.เพื่อเป็นการประหยัดค่าใช้จ่ายและลดต้นทุนจากการใช้แรงงานมนุษย์ในทุกๆเดือนมาเป็นแรงงานหุ่นยนต์
+
+Objectives of Creating a Plant Growing Project Using AI Technology
+1.To study the application of AI technology in plant cultivation.
+2.To save costs and minimize reliance on human labor by turning to robotics.
+
+ในโครงการนี้เราจะทำเป็นการทดลองปลูกมันฝรั่ง
+ซึ่งมีอุปกรณ์ที่ใช้ในการทดลองได้แก่ 
+1. พื้นที่ปลูกผัก
+2.หัวมันฝรั่งสำหรับการเพาะปลูก
+3.เครื่องเก็บเกี่ยว
+4.โปรแกรมสำหรับการเก็บเกี่ยวผลผลิต
+5.เครื่องไถพรวนดิน
+6.โปรแกรมสำหรับไถพรวนดิน
+7.เครื่องหย่อนมันฝรั่งและกลบ
+8.โปรแกรมสำหรับการหย่อนและกลบมันฝรั่ง
+9.ชุดเซ็ตอุปกรณ์สำหรับการระบบน้ำหยด
+10.โปรแกรมควบคุมระบบน้ำหยดและปุ๋ยโดยการใช้พลังงานแสงอาทิตย์
+11.ปุ๋ย
+12.ปูนขาว
+
+
+In this project, we will conduct an experiment on potato cultivation. 
+The equipment used in the experiment consists of:
+1.Vegetable planting area
+2.Potato tubers for planting
+3.Harvester
+4.Harvesting program
+5.Soil Tiller
+6.Program for Tilling the Soil
+7.Potato Seeding and Covering Machine
+8.Program for planting and covering potatoes.
+9.Set of equipment for a drip irrigation system
+10.Program for a drip irrigation and fertilizer system using solar energy.
+11.Fertilizer
+12.Lime
+
+ขั้นตอนและวิธีการดำเนินการ
+ขั้นแรกจะต้องมีการไถดินโดยใช้เครื่องไถพรวนดินและโปรแกรมระบบไถพรวนดินแบบสำเร็จรูปเพื่อควบคุมและกำจัดวัชพืชให้หมดไปจากพื้นที่ปลูก 
+ช่วยลดการแก่งแย่งแข่งขันระหว่างวัชพืชกับพืชปลูก ช่วยให้ดินร่วนซุย ถ่ายเทอากาศดี 
+เมื่อทำขั้นตอนแรกเสร็จแล้วเราจะใส่ปูนขาวเพื่อปรับสภาพดินจะช่วยลดการเป็นกรดของดิน เราสามารถโรยปูนขาวบางๆที่หน้าดิน เพื่อปรับสภาพดิน, ฆ่าเชื้อโรคในดิน, ช่วยปรับสภาพดินให้มีความร่วนซุย
+ต่อมาเราจะเรียกให้โปรแกรมไถพรวนดินทำให้เป็นร่องสำหรับปลูกมันฝรั่งโดยมีระยะห่างของการปลูกห่างกัน 15 เซนติเมตร
+เสร็จแล้วทำการตากดินและปั่นดินให้ดินมีความละเอียด เพื่อเตรียมดินไว้ใช้ในการใส่หัวมันฝรั่ง สำหรับการปลูกกลบร่องหลุมนั้นต้องทำให้เนินดินที่ปลูกมันฝรั่งมีความสูงประมาณ 1 ฟุตจากพื้นดินปกติ
+โดยขั้นตอนนี้จะใช้โปรแกรมในการไถพรวนดินในการปั่นดินและใช้โปรแกรมการหย่อนและกลบมันฝรั่งในการปลูกมันฝรั่งลงในดินที่เราเตรียมไว้
+ในการทำไร่มันฝรั่งนี้เราจะใช้ระบบน้ำหยดในการรดน้ำมันฝรั่งและให้ปุ๋ยไปพร้อมกับระบบน้ำหยด พื้นที่ 1 ไร่ ใช้ปุ๋ย 1 กก.ต่อน้ำ 8 ลิตร/เดือน และสุดท้ายเมื่อมันฝรั่งอายุประมาณ 40 วันแล้วสามารถใช้เครื่องจักรและโปรแกรมในการเก็บเกี่ยวมาเก็บเกี่ยวผลผลิต
+
+Steps and Methods of Operation
+The first step is to plow the soil using a tiller and a pre-designed 
+tillage system program to manage and eliminate weeds from the planting area. 
+This will reduce competition between weeds and plants, helping the soil to loosen.
+And helps with proper air circulation.
+When the first step is finished, we will add lime to adjust the soil condition. 
+It will help reduce the acidity of the soil. 
+We can sprinkle some lime on the surface of the soil to condition the soil, kill germs in the soil and improve soil friability.
+Next, we will run a program to create furrows for planting potatoes with a planting distance of 15 centimeters apart.
+After that, dry the soil and break up the soil until it becomes fine to prepare the soil for planting potato tubers. 
+For backfilling the trench, make the mound where the potatoes are grown about 1 foot above the normal ground level.
+In this step, the tilling program will be used to cultivate the soil and the potato planting and burying program will be used to plant the potatoes in the prepared soil.
+For potato farming, we will use a drip irrigation system to efficiently water the potatoes and provide fertilizer along with the drip irrigation system. 
+An area of 1 rai requires 1 kg of fertilizer for every 8 liters of water/month. 
+Finally, when the potatoes are about 40 days old, machinery is used and a program for harvesting is implemented to harvest the produce.
+
+
+
